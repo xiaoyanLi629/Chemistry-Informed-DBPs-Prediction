@@ -1,0 +1,481 @@
+Dataset,Seed,Fraction,N_train,Model,Test R2
+ontario,42,0.3,37,Random Forest,0.4951769268240006
+ontario,42,0.3,37,Support Vector Regression,0.5582355494480715
+ontario,42,0.3,37,XGBoost,0.5058821438625735
+ontario,42,0.3,37,Explainable Model,0.4966765618070061
+ontario,42,0.45,55,Random Forest,0.601437526328613
+ontario,42,0.45,55,Support Vector Regression,0.6365793903716014
+ontario,42,0.45,55,XGBoost,0.4973625962637622
+ontario,42,0.45,55,Explainable Model,0.6597940321667131
+ontario,42,0.6,73,Random Forest,0.6150970311732323
+ontario,42,0.6,73,Support Vector Regression,0.692145359044591
+ontario,42,0.6,73,XGBoost,0.6550650783447456
+ontario,42,0.6,73,Explainable Model,0.6913993942299022
+ontario,42,0.75,92,Random Forest,0.6371249003749976
+ontario,42,0.75,92,Support Vector Regression,0.6362036209640494
+ontario,42,0.75,92,XGBoost,0.6072162521603478
+ontario,42,0.75,92,Explainable Model,0.6354187218562918
+ontario,42,0.9,110,Random Forest,0.5739553984925676
+ontario,42,0.9,110,Support Vector Regression,0.6422839802432883
+ontario,42,0.9,110,XGBoost,0.6170941454302588
+ontario,42,0.9,110,Explainable Model,0.6652851890390133
+ontario,42,1.0,122,Random Forest,0.6290408523524422
+ontario,42,1.0,122,Support Vector Regression,0.6516408161313714
+ontario,42,1.0,122,XGBoost,0.6679282344676591
+ontario,42,1.0,122,Explainable Model,0.6593190885709195
+ontario,123,0.3,37,Random Forest,0.5033410554306577
+ontario,123,0.3,37,Support Vector Regression,0.5376838791953453
+ontario,123,0.3,37,XGBoost,0.3360365286962013
+ontario,123,0.3,37,Explainable Model,0.5804239606120966
+ontario,123,0.45,55,Random Forest,0.6171072797539446
+ontario,123,0.45,55,Support Vector Regression,0.6731664329902974
+ontario,123,0.45,55,XGBoost,0.441477335919809
+ontario,123,0.45,55,Explainable Model,0.5263944762545094
+ontario,123,0.6,73,Random Forest,0.5457373566326098
+ontario,123,0.6,73,Support Vector Regression,0.6380121996194565
+ontario,123,0.6,73,XGBoost,0.44635025238060344
+ontario,123,0.6,73,Explainable Model,0.6793236220715564
+ontario,123,0.75,92,Random Forest,0.7192502477541194
+ontario,123,0.75,92,Support Vector Regression,0.5427800010509086
+ontario,123,0.75,92,XGBoost,0.39707109853681855
+ontario,123,0.75,92,Explainable Model,0.68872911681141
+ontario,123,0.9,110,Random Forest,0.6347715941129716
+ontario,123,0.9,110,Support Vector Regression,0.6760449476384635
+ontario,123,0.9,110,XGBoost,0.641820725576245
+ontario,123,0.9,110,Explainable Model,0.7132959252162954
+ontario,123,1.0,122,Random Forest,0.6588912130981746
+ontario,123,1.0,122,Support Vector Regression,0.5772983178412273
+ontario,123,1.0,122,XGBoost,0.630244318891314
+ontario,123,1.0,122,Explainable Model,0.7288518990575856
+ontario,456,0.3,37,Random Forest,0.3987328164369185
+ontario,456,0.3,37,Support Vector Regression,0.059179394184575185
+ontario,456,0.3,37,XGBoost,0.522702562055195
+ontario,456,0.3,37,Explainable Model,0.48037963396717065
+ontario,456,0.45,55,Random Forest,0.33405590638084615
+ontario,456,0.45,55,Support Vector Regression,0.4195059751630531
+ontario,456,0.45,55,XGBoost,0.35317701890003755
+ontario,456,0.45,55,Explainable Model,0.3482095372609655
+ontario,456,0.6,73,Random Forest,0.5517275239099642
+ontario,456,0.6,73,Support Vector Regression,0.45502550887288845
+ontario,456,0.6,73,XGBoost,0.5367597233522827
+ontario,456,0.6,73,Explainable Model,0.5327499382696437
+ontario,456,0.75,92,Random Forest,0.5288740625101519
+ontario,456,0.75,92,Support Vector Regression,0.5250515427401461
+ontario,456,0.75,92,XGBoost,0.5947681393866282
+ontario,456,0.75,92,Explainable Model,0.5817334225636726
+ontario,456,0.9,110,Random Forest,0.5495109858167646
+ontario,456,0.9,110,Support Vector Regression,0.5414036069838201
+ontario,456,0.9,110,XGBoost,0.5756931815009914
+ontario,456,0.9,110,Explainable Model,0.6754226777836396
+ontario,456,1.0,122,Random Forest,0.5038816703928406
+ontario,456,1.0,122,Support Vector Regression,0.54264349967254
+ontario,456,1.0,122,XGBoost,0.5266630790598059
+ontario,456,1.0,122,Explainable Model,0.5453121760796936
+ontario,789,0.3,37,Random Forest,0.5768908295939998
+ontario,789,0.3,37,Support Vector Regression,0.41355313100511837
+ontario,789,0.3,37,XGBoost,0.5031159456365624
+ontario,789,0.3,37,Explainable Model,0.5938292902340933
+ontario,789,0.45,55,Random Forest,0.588615091452521
+ontario,789,0.45,55,Support Vector Regression,0.3718667223953984
+ontario,789,0.45,55,XGBoost,0.35112533837433857
+ontario,789,0.45,55,Explainable Model,0.38328169233090886
+ontario,789,0.6,73,Random Forest,0.5363901828300103
+ontario,789,0.6,73,Support Vector Regression,0.20501012110268263
+ontario,789,0.6,73,XGBoost,0.3309988297377017
+ontario,789,0.6,73,Explainable Model,0.6129782876725358
+ontario,789,0.75,92,Random Forest,0.6369502410762103
+ontario,789,0.75,92,Support Vector Regression,0.46638527675000235
+ontario,789,0.75,92,XGBoost,0.515855662871997
+ontario,789,0.75,92,Explainable Model,0.6114036691045943
+ontario,789,0.9,110,Random Forest,0.5625605734827943
+ontario,789,0.9,110,Support Vector Regression,0.2615897589002336
+ontario,789,0.9,110,XGBoost,0.41623225434285627
+ontario,789,0.9,110,Explainable Model,0.6447136555049046
+ontario,789,1.0,122,Random Forest,0.6323511228382597
+ontario,789,1.0,122,Support Vector Regression,0.4813407359348852
+ontario,789,1.0,122,XGBoost,0.5355019491657897
+ontario,789,1.0,122,Explainable Model,0.6400566405301125
+ontario,1024,0.3,37,Random Forest,0.5453464093313578
+ontario,1024,0.3,37,Support Vector Regression,0.4595044837649025
+ontario,1024,0.3,37,XGBoost,0.5515924027520602
+ontario,1024,0.3,37,Explainable Model,0.3180400832442867
+ontario,1024,0.45,55,Random Forest,0.5750148348055493
+ontario,1024,0.45,55,Support Vector Regression,0.5825119865779083
+ontario,1024,0.45,55,XGBoost,0.4996066592084472
+ontario,1024,0.45,55,Explainable Model,0.5353317029493974
+ontario,1024,0.6,73,Random Forest,0.6211285266949094
+ontario,1024,0.6,73,Support Vector Regression,0.5239728464952806
+ontario,1024,0.6,73,XGBoost,0.6481128420302599
+ontario,1024,0.6,73,Explainable Model,0.6250047480186659
+ontario,1024,0.75,92,Random Forest,0.6029177251302033
+ontario,1024,0.75,92,Support Vector Regression,0.5331156003042552
+ontario,1024,0.75,92,XGBoost,0.5633281137455911
+ontario,1024,0.75,92,Explainable Model,0.2903425791530566
+ontario,1024,0.9,110,Random Forest,0.5897448150988341
+ontario,1024,0.9,110,Support Vector Regression,0.553305291085999
+ontario,1024,0.9,110,XGBoost,0.5530297775582649
+ontario,1024,0.9,110,Explainable Model,0.5261910226911222
+ontario,1024,1.0,122,Random Forest,0.602208584648416
+ontario,1024,1.0,122,Support Vector Regression,0.5639221901354026
+ontario,1024,1.0,122,XGBoost,0.6188419693182411
+ontario,1024,1.0,122,Explainable Model,0.3284025873461237
+ontario,2025,0.3,37,Random Forest,0.496737178599727
+ontario,2025,0.3,37,Support Vector Regression,0.5096824600241462
+ontario,2025,0.3,37,XGBoost,0.285148422884408
+ontario,2025,0.3,37,Explainable Model,0.4146145675494609
+ontario,2025,0.45,55,Random Forest,0.45990313286367646
+ontario,2025,0.45,55,Support Vector Regression,-0.06321566831764525
+ontario,2025,0.45,55,XGBoost,0.4021624131825543
+ontario,2025,0.45,55,Explainable Model,0.4940848604677493
+ontario,2025,0.6,73,Random Forest,0.6267015868657742
+ontario,2025,0.6,73,Support Vector Regression,0.5350748353366923
+ontario,2025,0.6,73,XGBoost,0.5028996565647966
+ontario,2025,0.6,73,Explainable Model,0.3198566110876235
+ontario,2025,0.75,92,Random Forest,0.5694013343534108
+ontario,2025,0.75,92,Support Vector Regression,0.6242008073922791
+ontario,2025,0.75,92,XGBoost,0.5381629940868559
+ontario,2025,0.75,92,Explainable Model,0.4311270616678323
+ontario,2025,0.9,110,Random Forest,0.5629904641963358
+ontario,2025,0.9,110,Support Vector Regression,0.6167171221855047
+ontario,2025,0.9,110,XGBoost,0.44739187227324523
+ontario,2025,0.9,110,Explainable Model,0.26648191864669624
+ontario,2025,1.0,122,Random Forest,0.5743845074290299
+ontario,2025,1.0,122,Support Vector Regression,0.6271498430827883
+ontario,2025,1.0,122,XGBoost,0.5438321897876909
+ontario,2025,1.0,122,Explainable Model,0.562282386566785
+ontario,3407,0.3,37,Random Forest,0.40833507596775276
+ontario,3407,0.3,37,Support Vector Regression,0.11976071525633125
+ontario,3407,0.3,37,XGBoost,0.2919629530669767
+ontario,3407,0.3,37,Explainable Model,0.4579969602916351
+ontario,3407,0.45,55,Random Forest,0.47530368393695666
+ontario,3407,0.45,55,Support Vector Regression,0.5224246947836029
+ontario,3407,0.45,55,XGBoost,0.366271799083478
+ontario,3407,0.45,55,Explainable Model,0.5694923130959486
+ontario,3407,0.6,73,Random Forest,0.467764873528592
+ontario,3407,0.6,73,Support Vector Regression,0.4489335859133242
+ontario,3407,0.6,73,XGBoost,0.3565107754034339
+ontario,3407,0.6,73,Explainable Model,0.5621664264343657
+ontario,3407,0.75,92,Random Forest,0.5320763758195624
+ontario,3407,0.75,92,Support Vector Regression,0.4797990618257486
+ontario,3407,0.75,92,XGBoost,0.46449540311618165
+ontario,3407,0.75,92,Explainable Model,0.5432276696348166
+ontario,3407,0.9,110,Random Forest,0.5786331785279973
+ontario,3407,0.9,110,Support Vector Regression,0.5808887491996468
+ontario,3407,0.9,110,XGBoost,0.5897844615960681
+ontario,3407,0.9,110,Explainable Model,0.6135197230198949
+ontario,3407,1.0,122,Random Forest,0.5480259670982373
+ontario,3407,1.0,122,Support Vector Regression,0.5236450175772567
+ontario,3407,1.0,122,XGBoost,0.47054149705756976
+ontario,3407,1.0,122,Explainable Model,0.5292871206530065
+ontario,5555,0.3,37,Random Forest,0.5367831963108312
+ontario,5555,0.3,37,Support Vector Regression,0.5463216981539616
+ontario,5555,0.3,37,XGBoost,0.4338025234273998
+ontario,5555,0.3,37,Explainable Model,0.13707154096357754
+ontario,5555,0.45,55,Random Forest,0.38839838128179444
+ontario,5555,0.45,55,Support Vector Regression,0.4263548551607602
+ontario,5555,0.45,55,XGBoost,0.31941602409390957
+ontario,5555,0.45,55,Explainable Model,0.28048589360553405
+ontario,5555,0.6,73,Random Forest,0.5592721603001944
+ontario,5555,0.6,73,Support Vector Regression,0.48963221253791034
+ontario,5555,0.6,73,XGBoost,0.29139997257839423
+ontario,5555,0.6,73,Explainable Model,0.19397224483551448
+ontario,5555,0.75,92,Random Forest,0.609697057490767
+ontario,5555,0.75,92,Support Vector Regression,0.5817117049217102
+ontario,5555,0.75,92,XGBoost,0.6040675741780388
+ontario,5555,0.75,92,Explainable Model,0.6361295241406295
+ontario,5555,0.9,110,Random Forest,0.6042843201043256
+ontario,5555,0.9,110,Support Vector Regression,0.6292803054679512
+ontario,5555,0.9,110,XGBoost,0.6587893663381843
+ontario,5555,0.9,110,Explainable Model,0.3654594545186726
+ontario,5555,1.0,122,Random Forest,0.5423769914504686
+ontario,5555,1.0,122,Support Vector Regression,0.6317569082857555
+ontario,5555,1.0,122,XGBoost,0.5337484068382066
+ontario,5555,1.0,122,Explainable Model,0.5551140899179745
+ontario,7777,0.3,37,Random Forest,0.6452528328383675
+ontario,7777,0.3,37,Support Vector Regression,0.5362142488832236
+ontario,7777,0.3,37,XGBoost,0.6141027571914941
+ontario,7777,0.3,37,Explainable Model,0.6525153578021949
+ontario,7777,0.45,55,Random Forest,0.5675171738449638
+ontario,7777,0.45,55,Support Vector Regression,0.4971141977509278
+ontario,7777,0.45,55,XGBoost,0.5245080888924725
+ontario,7777,0.45,55,Explainable Model,0.6194155934157296
+ontario,7777,0.6,73,Random Forest,0.6453593590065715
+ontario,7777,0.6,73,Support Vector Regression,0.591689062139486
+ontario,7777,0.6,73,XGBoost,0.5605572741921223
+ontario,7777,0.6,73,Explainable Model,0.49544770513366904
+ontario,7777,0.75,92,Random Forest,0.654597006788419
+ontario,7777,0.75,92,Support Vector Regression,0.6656277417801149
+ontario,7777,0.75,92,XGBoost,0.5944825769303439
+ontario,7777,0.75,92,Explainable Model,0.6804522997559763
+ontario,7777,0.9,110,Random Forest,0.6591263240397311
+ontario,7777,0.9,110,Support Vector Regression,0.562600569579794
+ontario,7777,0.9,110,XGBoost,0.6664578994915231
+ontario,7777,0.9,110,Explainable Model,0.6328702211458869
+ontario,7777,1.0,122,Random Forest,0.6646924050172918
+ontario,7777,1.0,122,Support Vector Regression,0.553631775940456
+ontario,7777,1.0,122,XGBoost,0.6553545463662491
+ontario,7777,1.0,122,Explainable Model,0.6334438227193013
+ontario,9999,0.3,37,Random Forest,0.3107304681404975
+ontario,9999,0.3,37,Support Vector Regression,0.43498813961761884
+ontario,9999,0.3,37,XGBoost,0.2949867533014152
+ontario,9999,0.3,37,Explainable Model,0.39562351279476715
+ontario,9999,0.45,55,Random Forest,0.30514771375374206
+ontario,9999,0.45,55,Support Vector Regression,0.4740498175322341
+ontario,9999,0.45,55,XGBoost,0.26167018701557004
+ontario,9999,0.45,55,Explainable Model,0.4079493374423575
+ontario,9999,0.6,73,Random Forest,0.42583970758064116
+ontario,9999,0.6,73,Support Vector Regression,0.42178591251228525
+ontario,9999,0.6,73,XGBoost,0.30409034328971235
+ontario,9999,0.6,73,Explainable Model,0.5074686114396083
+ontario,9999,0.75,92,Random Forest,0.518752752312278
+ontario,9999,0.75,92,Support Vector Regression,0.4539248046125983
+ontario,9999,0.75,92,XGBoost,0.49187541264284224
+ontario,9999,0.75,92,Explainable Model,0.504004210083323
+ontario,9999,0.9,110,Random Forest,0.4270520868597816
+ontario,9999,0.9,110,Support Vector Regression,0.4995681091350638
+ontario,9999,0.9,110,XGBoost,0.3426371293532906
+ontario,9999,0.9,110,Explainable Model,0.48302674626276976
+ontario,9999,1.0,122,Random Forest,0.4700947358190004
+ontario,9999,1.0,122,Support Vector Regression,0.43810556832149383
+ontario,9999,1.0,122,XGBoost,0.3307884959482204
+ontario,9999,1.0,122,Explainable Model,0.46944850120599363
+original,42,0.3,14,Random Forest,-0.4162332942477436
+original,42,0.3,14,Support Vector Regression,-0.17677694323891935
+original,42,0.3,14,XGBoost,-0.8695986276802014
+original,42,0.3,14,Explainable Model,-0.6247983104834146
+original,42,0.45,21,Random Forest,0.1834988422756432
+original,42,0.45,21,Support Vector Regression,0.302021028820174
+original,42,0.45,21,XGBoost,0.11729174864552527
+original,42,0.45,21,Explainable Model,0.23890490009850432
+original,42,0.6,28,Random Forest,-0.06986196687056041
+original,42,0.6,28,Support Vector Regression,0.009384855334253973
+original,42,0.6,28,XGBoost,-0.1812173446717174
+original,42,0.6,28,Explainable Model,-0.10808357194129133
+original,42,0.75,34,Random Forest,-0.6429561083042401
+original,42,0.75,34,Support Vector Regression,0.3434744658475993
+original,42,0.75,34,XGBoost,-1.1588422150526707
+original,42,0.75,34,Explainable Model,0.07549698579623816
+original,42,0.9,41,Random Forest,0.1441755244362986
+original,42,0.9,41,Support Vector Regression,0.4103808840138948
+original,42,0.9,41,XGBoost,0.044800345258297194
+original,42,0.9,41,Explainable Model,-0.07128210062263678
+original,42,1.0,46,Random Forest,0.29233090206920276
+original,42,1.0,46,Support Vector Regression,0.38538101843004313
+original,42,1.0,46,XGBoost,0.1593276165271999
+original,42,1.0,46,Explainable Model,0.42196472662249923
+original,123,0.3,14,Random Forest,0.13065799484198742
+original,123,0.3,14,Support Vector Regression,0.022557851977713005
+original,123,0.3,14,XGBoost,-1.0080991195280584
+original,123,0.3,14,Explainable Model,0.044821971854056494
+original,123,0.45,21,Random Forest,0.08148518240095086
+original,123,0.45,21,Support Vector Regression,0.28932066200043166
+original,123,0.45,21,XGBoost,-0.5444476265969591
+original,123,0.45,21,Explainable Model,0.3633072961053405
+original,123,0.6,28,Random Forest,-0.16898450665898995
+original,123,0.6,28,Support Vector Regression,0.17996363281129357
+original,123,0.6,28,XGBoost,-0.7669761519061998
+original,123,0.6,28,Explainable Model,-0.12815963891265458
+original,123,0.75,34,Random Forest,0.16491527247060914
+original,123,0.75,34,Support Vector Regression,0.43122832002857586
+original,123,0.75,34,XGBoost,-0.05484955175497528
+original,123,0.75,34,Explainable Model,0.19190895422778265
+original,123,0.9,41,Random Forest,0.17007157544029375
+original,123,0.9,41,Support Vector Regression,0.43660170739762255
+original,123,0.9,41,XGBoost,-0.0597510425139526
+original,123,0.9,41,Explainable Model,0.09292554282316327
+original,123,1.0,46,Random Forest,0.06740941980358636
+original,123,1.0,46,Support Vector Regression,0.4359215551812244
+original,123,1.0,46,XGBoost,-0.017364368760875125
+original,123,1.0,46,Explainable Model,0.21787289078275734
+original,456,0.3,14,Random Forest,-0.32904801738112555
+original,456,0.3,14,Support Vector Regression,-0.09053520892573205
+original,456,0.3,14,XGBoost,-0.8576925136287796
+original,456,0.3,14,Explainable Model,-0.03530197163569071
+original,456,0.45,21,Random Forest,0.2083279625760838
+original,456,0.45,21,Support Vector Regression,-0.011006455546967909
+original,456,0.45,21,XGBoost,0.13254756454973116
+original,456,0.45,21,Explainable Model,0.1573661142020328
+original,456,0.6,28,Random Forest,0.32469141593765793
+original,456,0.6,28,Support Vector Regression,0.3925872742322828
+original,456,0.6,28,XGBoost,-0.7542900689599554
+original,456,0.6,28,Explainable Model,0.5405863290309525
+original,456,0.75,34,Random Forest,0.045394171740602854
+original,456,0.75,34,Support Vector Regression,0.37127493142688545
+original,456,0.75,34,XGBoost,0.06683025836599743
+original,456,0.75,34,Explainable Model,0.2916385824334792
+original,456,0.9,41,Random Forest,0.06859966492060617
+original,456,0.9,41,Support Vector Regression,-0.01988837266446879
+original,456,0.9,41,XGBoost,-0.03952693811933441
+original,456,0.9,41,Explainable Model,0.16856738180617006
+original,456,1.0,46,Random Forest,0.37893716215705203
+original,456,1.0,46,Support Vector Regression,0.430396138228878
+original,456,1.0,46,XGBoost,0.3134660885108789
+original,456,1.0,46,Explainable Model,0.528583659895843
+original,789,0.3,14,Random Forest,0.2543436423508134
+original,789,0.3,14,Support Vector Regression,0.3887254138974562
+original,789,0.3,14,XGBoost,-0.042142633434359734
+original,789,0.3,14,Explainable Model,0.17363883920642872
+original,789,0.45,21,Random Forest,-0.22716021598621156
+original,789,0.45,21,Support Vector Regression,0.04841202715660187
+original,789,0.45,21,XGBoost,-0.5436314791389036
+original,789,0.45,21,Explainable Model,-0.1421511306596664
+original,789,0.6,28,Random Forest,0.1263177715479876
+original,789,0.6,28,Support Vector Regression,-0.16658726108557587
+original,789,0.6,28,XGBoost,0.030982878947260196
+original,789,0.6,28,Explainable Model,0.19779412846761357
+original,789,0.75,34,Random Forest,-0.20606682918192437
+original,789,0.75,34,Support Vector Regression,0.16481841598514568
+original,789,0.75,34,XGBoost,-0.37733033318204745
+original,789,0.75,34,Explainable Model,-0.010398920190797334
+original,789,0.9,41,Random Forest,0.20713717682203603
+original,789,0.9,41,Support Vector Regression,0.3449488512996116
+original,789,0.9,41,XGBoost,0.19487521896100607
+original,789,0.9,41,Explainable Model,0.056834454349293774
+original,789,1.0,46,Random Forest,0.20677914231641478
+original,789,1.0,46,Support Vector Regression,0.41206223287259214
+original,789,1.0,46,XGBoost,0.2832188294693445
+original,789,1.0,46,Explainable Model,0.35780978420976134
+original,1024,0.3,14,Random Forest,0.0433886416468622
+original,1024,0.3,14,Support Vector Regression,-0.033510038778555004
+original,1024,0.3,14,XGBoost,-0.7249544180737478
+original,1024,0.3,14,Explainable Model,0.08494021301676133
+original,1024,0.45,21,Random Forest,-0.2818562490613107
+original,1024,0.45,21,Support Vector Regression,0.20526066556523057
+original,1024,0.45,21,XGBoost,-0.04111255588270446
+original,1024,0.45,21,Explainable Model,-0.4026545596315213
+original,1024,0.6,28,Random Forest,0.1054369663755728
+original,1024,0.6,28,Support Vector Regression,0.32522862299513106
+original,1024,0.6,28,XGBoost,-0.32316249731830127
+original,1024,0.6,28,Explainable Model,0.2703099512877213
+original,1024,0.75,34,Random Forest,-0.11470782173782454
+original,1024,0.75,34,Support Vector Regression,0.3520025896669055
+original,1024,0.75,34,XGBoost,-0.2621082239067771
+original,1024,0.75,34,Explainable Model,0.1651256555042405
+original,1024,0.9,41,Random Forest,0.20329811570379297
+original,1024,0.9,41,Support Vector Regression,0.5106166814855605
+original,1024,0.9,41,XGBoost,0.1070749183739895
+original,1024,0.9,41,Explainable Model,0.0447975485125988
+original,1024,1.0,46,Random Forest,0.1921862615836271
+original,1024,1.0,46,Support Vector Regression,0.27880712705488186
+original,1024,1.0,46,XGBoost,0.09796329526021555
+original,1024,1.0,46,Explainable Model,0.26858109204828473
+original,2025,0.3,14,Random Forest,-0.0853825783443114
+original,2025,0.3,14,Support Vector Regression,-0.46933021470154124
+original,2025,0.3,14,XGBoost,-0.33060198262332985
+original,2025,0.3,14,Explainable Model,-0.6352154519878479
+original,2025,0.45,21,Random Forest,-0.045037268035533005
+original,2025,0.45,21,Support Vector Regression,0.032210705820871446
+original,2025,0.45,21,XGBoost,-0.4102855886314636
+original,2025,0.45,21,Explainable Model,-0.09431270510294758
+original,2025,0.6,28,Random Forest,0.35842594633540864
+original,2025,0.6,28,Support Vector Regression,0.2279627645118556
+original,2025,0.6,28,XGBoost,0.09249653916794669
+original,2025,0.6,28,Explainable Model,0.43181682764872453
+original,2025,0.75,34,Random Forest,0.08826777078326149
+original,2025,0.75,34,Support Vector Regression,0.40763139352819183
+original,2025,0.75,34,XGBoost,-0.33445741456830264
+original,2025,0.75,34,Explainable Model,0.4683601250055281
+original,2025,0.9,41,Random Forest,0.10658562329479818
+original,2025,0.9,41,Support Vector Regression,0.05152260191549509
+original,2025,0.9,41,XGBoost,0.199060528985111
+original,2025,0.9,41,Explainable Model,0.16210478638927694
+original,2025,1.0,46,Random Forest,0.31441937863138175
+original,2025,1.0,46,Support Vector Regression,0.4407057685737549
+original,2025,1.0,46,XGBoost,0.45798647594295544
+original,2025,1.0,46,Explainable Model,0.20561694422222648
+original,3407,0.3,14,Random Forest,0.1697506476921283
+original,3407,0.3,14,Support Vector Regression,0.18875395860553726
+original,3407,0.3,14,XGBoost,-0.37405650570438126
+original,3407,0.3,14,Explainable Model,0.06554894615176139
+original,3407,0.45,21,Random Forest,0.10844324024024021
+original,3407,0.45,21,Support Vector Regression,0.18598340360865862
+original,3407,0.45,21,XGBoost,-0.008497022666359388
+original,3407,0.45,21,Explainable Model,0.05098891317057721
+original,3407,0.6,28,Random Forest,0.18412556332598637
+original,3407,0.6,28,Support Vector Regression,0.330240448817272
+original,3407,0.6,28,XGBoost,0.1498723844961986
+original,3407,0.6,28,Explainable Model,-0.07458349792280392
+original,3407,0.75,34,Random Forest,0.30806013527036374
+original,3407,0.75,34,Support Vector Regression,0.35318137021432383
+original,3407,0.75,34,XGBoost,-0.11540196183974634
+original,3407,0.75,34,Explainable Model,0.3881204524237967
+original,3407,0.9,41,Random Forest,0.2776921649281513
+original,3407,0.9,41,Support Vector Regression,0.12686770021169896
+original,3407,0.9,41,XGBoost,-0.03266230673308479
+original,3407,0.9,41,Explainable Model,0.3824689668083202
+original,3407,1.0,46,Random Forest,0.3384985273665565
+original,3407,1.0,46,Support Vector Regression,0.22574558138974243
+original,3407,1.0,46,XGBoost,0.11241576027050626
+original,3407,1.0,46,Explainable Model,0.17519764148428887
+original,5555,0.3,14,Random Forest,0.026662414075381703
+original,5555,0.3,14,Support Vector Regression,0.13899632476069967
+original,5555,0.3,14,XGBoost,-0.32707077527451645
+original,5555,0.3,14,Explainable Model,0.12154022929262027
+original,5555,0.45,21,Random Forest,0.1143488536179688
+original,5555,0.45,21,Support Vector Regression,0.36104879663644507
+original,5555,0.45,21,XGBoost,0.13778638116082734
+original,5555,0.45,21,Explainable Model,0.04617769490516499
+original,5555,0.6,28,Random Forest,0.29682352889146935
+original,5555,0.6,28,Support Vector Regression,0.504305557377255
+original,5555,0.6,28,XGBoost,0.07823182541872446
+original,5555,0.6,28,Explainable Model,0.4056808002964873
+original,5555,0.75,34,Random Forest,0.4042234384219047
+original,5555,0.75,34,Support Vector Regression,0.42400571216114613
+original,5555,0.75,34,XGBoost,0.4795331881984171
+original,5555,0.75,34,Explainable Model,0.4657868367388274
+original,5555,0.9,41,Random Forest,0.214582924599325
+original,5555,0.9,41,Support Vector Regression,0.42574240674956537
+original,5555,0.9,41,XGBoost,0.21983941868947116
+original,5555,0.9,41,Explainable Model,0.47533662235637736
+original,5555,1.0,46,Random Forest,0.45106051443007666
+original,5555,1.0,46,Support Vector Regression,0.5810906152921789
+original,5555,1.0,46,XGBoost,0.4626092664606524
+original,5555,1.0,46,Explainable Model,0.564812893134298
+original,7777,0.3,14,Random Forest,0.008584186316280374
+original,7777,0.3,14,Support Vector Regression,-0.09230393251151088
+original,7777,0.3,14,XGBoost,-0.03857051565529159
+original,7777,0.3,14,Explainable Model,0.06466470122446495
+original,7777,0.45,21,Random Forest,0.21436704424702052
+original,7777,0.45,21,Support Vector Regression,-0.08369495249966245
+original,7777,0.45,21,XGBoost,0.0654164089135689
+original,7777,0.45,21,Explainable Model,0.4060224248280783
+original,7777,0.6,28,Random Forest,0.28632065818764857
+original,7777,0.6,28,Support Vector Regression,0.3411464591579706
+original,7777,0.6,28,XGBoost,0.008911129502458315
+original,7777,0.6,28,Explainable Model,0.3646977147843872
+original,7777,0.75,34,Random Forest,0.27297131973467825
+original,7777,0.75,34,Support Vector Regression,0.17997285909899402
+original,7777,0.75,34,XGBoost,-0.016553781005955857
+original,7777,0.75,34,Explainable Model,-0.11561222018607938
+original,7777,0.9,41,Random Forest,0.45495908839794535
+original,7777,0.9,41,Support Vector Regression,0.4089255485766696
+original,7777,0.9,41,XGBoost,0.301096883140219
+original,7777,0.9,41,Explainable Model,0.5808193767221147
+original,7777,1.0,46,Random Forest,0.4601319590201934
+original,7777,1.0,46,Support Vector Regression,0.37693462697330443
+original,7777,1.0,46,XGBoost,0.4023929488457867
+original,7777,1.0,46,Explainable Model,0.4949201496665957
+original,9999,0.3,14,Random Forest,-0.18657783827141589
+original,9999,0.3,14,Support Vector Regression,0.21831909288613974
+original,9999,0.3,14,XGBoost,-0.6366256877990503
+original,9999,0.3,14,Explainable Model,0.3190218918195268
+original,9999,0.45,21,Random Forest,0.1248738711402092
+original,9999,0.45,21,Support Vector Regression,0.21654662414584633
+original,9999,0.45,21,XGBoost,-0.270340685546473
+original,9999,0.45,21,Explainable Model,0.08633354219765199
+original,9999,0.6,28,Random Forest,0.3976302072223485
+original,9999,0.6,28,Support Vector Regression,0.3652044873232898
+original,9999,0.6,28,XGBoost,-0.13796387825055317
+original,9999,0.6,28,Explainable Model,0.37159172752667224
+original,9999,0.75,34,Random Forest,0.3835360841111378
+original,9999,0.75,34,Support Vector Regression,0.1230424039572525
+original,9999,0.75,34,XGBoost,0.23381375878682187
+original,9999,0.75,34,Explainable Model,0.2250028321485721
+original,9999,0.9,41,Random Forest,0.3481076196377046
+original,9999,0.9,41,Support Vector Regression,0.42361867638480205
+original,9999,0.9,41,XGBoost,0.30009045887101654
+original,9999,0.9,41,Explainable Model,0.5219623900959626
+original,9999,1.0,46,Random Forest,0.44275283421755374
+original,9999,1.0,46,Support Vector Regression,0.4649055254346585
+original,9999,1.0,46,XGBoost,0.13095411068703408
+original,9999,1.0,46,Explainable Model,0.47495991622148914

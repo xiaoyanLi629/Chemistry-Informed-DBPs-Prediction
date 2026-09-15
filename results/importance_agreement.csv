@@ -1,0 +1,5 @@
+,0
+spearman_attention_vs_permutation,0.9999999999999999
+spearman_attention_vs_shap,0.9999999999999999
+spearman_permutation_vs_shap,0.9999999999999999
+organic_matter_top_fraction,0.9

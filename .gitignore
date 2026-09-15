@@ -1,0 +1,28 @@
+# not tracked
+manuscript/
+references/
+data/ontario_dwsp/
+results/logs/
+*.bundle
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+.env/
